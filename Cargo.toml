@@ -5,3 +5,6 @@ edition = "2024"
 description = "a blazingly fast, zero-overhead primitive counter library for no_std Rust."
 license = "BSD-3-Clause"
 
+repository = "https://github.com/G0o53/ffor"
+homepage = "https://github.com/G0o53/ffor"
+
