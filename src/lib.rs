@@ -31,7 +31,7 @@ pub fn ffor16(cnt: i16, mut c: i16) -> i16 {
 }
 
 #[inline]
-pub fn ffor(cnt: i32, mut c: i32) -> i32 {
+pub fn ffor32(cnt: i32, mut c: i32) -> i32 {
     if c < cnt {
         c += 1;
         c
