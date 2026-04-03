@@ -1,9 +1,9 @@
 # ffor
-a lightning fast, alternative to the builtin for in rust
+a lightning fast, alternative to the builtin ```for``` in rust
 
 - has 5 versions: ffor8, ffor16, ffor32, ffor64, ffor128
 - uses ```#![no_std]```
-- 
+ 
 
 ## sometimes even the defaults are bloated
 **use:**
