@@ -11,7 +11,7 @@ a lightning fast, alternative to the builtin ```for``` in rust
 in ```Cargo.toml```
 ```rust
 [dependencies]
-ffor = "0.0.1"
+ffor = "0.0.5"
 ```
 in ```main.rs```
 ```rust
